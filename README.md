@@ -1,7 +1,7 @@
 # ¡Hola, soy Rafi! 👋
 🚀 Desarrollador apasionado por el aprendizaje constante.  
-💻 Actualmente trabajando en: [Mi Proyecto Cool](https://github.com/rafi-27/mi-proyecto).  
-🌱 Aprendiendo: `JavaScript`, `React` y `Python`.  
+💻 Actualmente trabajando en: [Mi Proyecto Cool]([https://github.com/rafi-27/mi-proyecto](https://github.com/rafi-27/Pizzeria-Backend.git)).  
+🌱 Aprendiendo: `Java`, `Kotlin`, `C#` y `Python`.  
 📫 Contáctame en: [LinkedIn](https://linkedin.com/in/rafi-27).  
 
 <!--
