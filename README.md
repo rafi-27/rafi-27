@@ -1,4 +1,8 @@
-## Hi there 👋
+# ¡Hola, soy Rafi! 👋
+🚀 Desarrollador apasionado por el aprendizaje constante.  
+💻 Actualmente trabajando en: [Mi Proyecto Cool](https://github.com/rafi-27/mi-proyecto).  
+🌱 Aprendiendo: `JavaScript`, `React` y `Python`.  
+📫 Contáctame en: [LinkedIn](https://linkedin.com/in/rafi-27).  
 
 <!--
 **rafi-27/rafi-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
